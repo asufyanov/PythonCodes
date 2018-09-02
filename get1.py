@@ -11,7 +11,7 @@ dimensions = "&dimensions=ym:s:goal"
 date1 = "&date1=2018-08-20"
 date2 = "&date2=2018-08-26"
 ids = "&ids=10575199"
-token = "&oauth_token=AQAAAAAfG7AEAAUtKjM8zFheiEHQpFBiD0qG6Kg"
+token = "&oauth_token=ZZZZZZ"
 accuracy = "&accuracy=high"
 
 
