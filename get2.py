@@ -16,7 +16,7 @@ metrics = "&metrics=ym%3Ace%3Ausers%2Cym%3Ace%3Adevices%2Cym%3Ace%3AclientEvents
 dimensions ="&dimensions=ym%3Ace%3AeventLabel%2Cym%3Ace%3AparamsLevel1%2Cym%3Ace%3AparamsLevel2%2Cym%3Ace%3AparamsLevel3%2Cym%3Ace%3AparamsLevel4%2Cym%3Ace%3AparamsLevel5"
 sort="&sort=-ym%3Ace%3AclientEvents"
 limitAccur = "&limit=99999&accuracy=high&proposedAccuracy=true"
-token ="&oauth_token=AQAAAAAfG7AEAASfc2O3zMIfhENQgzoavlpZq6A"
+token ="&oauth_token=ZZZZZZZZ"
 
 d1 = input("Введите начальную дату YYYY-MM-DD")
 d2 = input("Введите конечную дату YYYY-MM-DD")
